@@ -28,7 +28,7 @@ O "Venda na Veia" não é só papo, é inovação também! Utilizamos as seguint
 
 - **[ChatGPT](https://openai.com/chatgpt)** – Para roteiros inteligentes, ideias criativas e respostas sob medida 🎯
 - **[ElevenLabs](https://www.elevenlabs.io/)** – Para uma narração clara, natural e com aquela pegada profissional de verdade 🎙️
-- **[Midjourney](https://www.midjourney.com/)** – Criamos artes visuais incríveis que traduzem a alma de cada episódio 🖼️
+- **[Leonardo AI](https://www.innerai.com/)** – Criamos artes visuais incríveis que traduzem a alma de cada episódio 🖼️
 
 ---
 
